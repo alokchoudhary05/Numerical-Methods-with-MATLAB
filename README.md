@@ -1,3 +1,5 @@
+![numerical method](https://github.com/alokchoudhary05/Numerical-Methods-with-MATLAB/assets/148992523/7e116338-61f6-4437-afae-05dee53f8ae5)
+
 # Numerical Methods with MATLAB Programming 
 
 Welcome to this comprehensive MATLAB programming repository! Here, you'll find a collection of programs and algorithms covering a wide range of topics, from basic operations to advanced numerical methods. Whether you're a student, educator, or professional, these resources are designed to facilitate learning and application of MATLAB in various computational tasks.
