@@ -62,5 +62,9 @@ This repository is open-source and available under the MIT License.
 ## Contact
 
 If you have any questions or feedback, please open an issue in the repository, and I'll get back to you as soon as possible.
+### **Connect with Me:**
+- **LinkedIn:** [@Alok Choudhary](https://linkedin.com/in/alok-choudhary9341776554)
+- **Twitter:** [@AlokChoudh78331](https://x.com/AlokChoudh78331?t=8zuH3jMz6KGa29bGpbuBzg&s=08)
+- **Instagram:** [@alokchoudhary__1](https://www.instagram.com/alokchoudhary__1?igsh=Z3dlcmJndHNvaHJw)
 
-Thank you for visiting, and happy coding!
+## Thank you for visiting, and happy coding!
